@@ -8,6 +8,9 @@ The screenshots below deonstrate the web pages and featues of this application:
 
 1. Register and login page
 
+![Image of Yaktocat]
+(https://github.com/Shihao-Bob-Sun/JobPlus/blob/master/Image%20demonstration/Login.png)
+
 2. Search and display all nearby jobs based on user's real-time geo-location. Click the job to see more details about the position. Users can favorite jobs by clicking the "heart" button
 
 3. Browse all liked jobs
