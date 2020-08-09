@@ -4,6 +4,8 @@ Job+ is a AWS-based web application which aims to let users search for jobs near
 
 The figure below shows the overall architecture of this project:
 
+![Architecture](https://github.com/Shihao-Bob-Sun/JobPlus/blob/master/Image%20demonstration/Project%20architecture.jpg)
+
 The screenshots below deonstrate the web pages and featues of this application:
 
 1. Register and login page
@@ -19,6 +21,8 @@ The screenshots below deonstrate the web pages and featues of this application:
 3. Browse all liked jobs
 
 4. Provided content-based recommendation based on user-favorited jobs
+
+![Recommendation](https://github.com/Shihao-Bob-Sun/JobPlus/blob/master/Image%20demonstration/Recommendation.png)
 
 Project link:
 
