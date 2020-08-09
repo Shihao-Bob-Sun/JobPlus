@@ -28,3 +28,5 @@ The screenshots below deonstrate the web pages and featues of this application:
 
 Project link:
 
+http://34.211.21.63/Titan/ 
+username:1111, password: 2222
