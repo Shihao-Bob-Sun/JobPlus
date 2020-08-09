@@ -26,7 +26,3 @@ The screenshots below deonstrate the web pages and featues of this application:
 
 ![Recommendation](https://github.com/Shihao-Bob-Sun/JobPlus/blob/master/Image%20demonstration/Recommendation.png)
 
-Project link:
-
-http://34.211.21.63/Titan/ 
-username:1111, password: 2222
