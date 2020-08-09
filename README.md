@@ -20,6 +20,8 @@ The screenshots below deonstrate the web pages and featues of this application:
 
 3. Browse all liked jobs
 
+![My favorites](https://github.com/Shihao-Bob-Sun/JobPlus/blob/master/Image%20demonstration/My%20favorites.png)
+
 4. Provided content-based recommendation based on user-favorited jobs
 
 ![Recommendation](https://github.com/Shihao-Bob-Sun/JobPlus/blob/master/Image%20demonstration/Recommendation.png)
